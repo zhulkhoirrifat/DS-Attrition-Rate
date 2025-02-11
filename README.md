@@ -44,6 +44,7 @@ python prediction.py
 ```
 
 ## Business Dashboard
+![istiabudi73 - dashboard](https://github.com/user-attachments/assets/78a36da2-6d75-4a02-98aa-313652ba888e)
 
 Business dashboard yang ada dibuat untuk memonitor faktor faktor apa saja yang mempengaruhi attrition karyawan.
 
