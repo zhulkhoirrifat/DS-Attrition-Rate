@@ -44,17 +44,50 @@ python prediction.py
 ```
 
 ## Business Dashboard
+
 ![istiabudi73 - dashboard](https://github.com/user-attachments/assets/78a36da2-6d75-4a02-98aa-313652ba888e)
 
-Business dashboard yang ada dibuat untuk memonitor faktor faktor apa saja yang mempengaruhi attrition karyawan.
+Dashboard ini dibuat untuk memantau tingkat attrition (tingkat keluar/mutasi karyawan) di perusahaan. Dengan data ini, perusahaan dapat memahami pola dan faktor yang berkontribusi terhadap keluarnya karyawan, serta mengambil langkah-langkah strategis untuk meningkatkan retensi karyawan. Dashboard dapat diakses melalui tautan ini. [Tableau Public - Attrition](https://public.tableau.com/app/profile/istiabudi121/viz/Attrition_17392325586410/Dashboard1)
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+1. Tingkat Attrition
+
+    - Total attrition (karyawan yang keluar) adalah 179 karyawan.
+    - Saat ini terdapat 1.291 karyawan aktif.
+    - Tingkat attrition lebih tinggi pada laki-laki (10,21%) dibanding perempuan (6,71%).
+
+2. Attrition Berdasarkan Job Role
+
+    - Sales Executive (39), Research Scientist (38), dan Laboratory Technician (49) memiliki angka attrition tertinggi.
+    - Manufacturing Director dan Human Resources memiliki attrition terendah.
+
+3. Attrition Berdasarkan Departemen
+
+    - Departemen Research & Development (107) memiliki jumlah attrition tertinggi.
+    - Departemen Sales (66) juga memiliki tingkat attrition yang cukup tinggi.
+    - Departemen Human Resources memiliki attrition yang sangat rendah.
+
+4. Attrition Berdasarkan Job Level
+
+    - Job level 1 memiliki attrition tertinggi (108 karyawan).
+    - Job level 2 dan 3 juga mengalami attrition tetapi tidak sebanyak level 1.
+    - Job level 4 dan 5 memiliki attrition yang lebih rendah, menunjukkan bahwa karyawan dengan jabatan lebih tinggi cenderung bertahan lebih lama.
+    
+5. Attrition Berdasarkan Pendidikan
+
+    - Karyawan dengan pendidikan Bachelor memiliki attrition tertinggi (76).
+    - Attrition cukup merata pada jenjang pendidikan lainnya, tetapi lebih rendah pada tingkat Doctor.
+
+6. Distribusi Attrition Berdasarkan Gaji Bulanan
+
+    - Attrition lebih banyak terjadi pada karyawan dengan gaji antara 4K - 7K.
+    - Semakin tinggi gaji, semakin rendah tingkat attrition, kecuali pada gaji 13K dan 19K yang masih memiliki sedikit attrition.
 
 ### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-- action item 1
-- action item 2
+- Fokus pada Job Level 1 dan Departemen Research & Development karena memiliki tingkat attrition yang tinggi.
+- Perhatikan kesejahteraan karyawan di rentang gaji 4K - 7K, mungkin ada ketidakpuasan terkait kompensasi.
+- Job Role seperti Sales Executive, Research Scientist, dan Laboratory Technician perlu strategi retensi khusus untuk mengurangi turnover.
+- Karyawan dengan pendidikan Bachelor memiliki tingkat attrition tertinggi, bisa jadi karena ekspektasi karir yang lebih tinggi.
+- Tingkatkan engagement bagi karyawan laki-laki, karena mereka lebih cenderung mengalami attrition dibanding perempuan.
