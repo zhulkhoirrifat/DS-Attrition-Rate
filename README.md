@@ -60,7 +60,7 @@ Dashboard ini dibuat untuk memantau tingkat attrition (tingkat keluar/mutasi kar
 2. Attrition Berdasarkan Job Role
 
     - Sales Executive (39), Research Scientist (38), dan Laboratory Technician (49) memiliki angka attrition tertinggi.
-    - Manufacturing Director dan Human Resources memiliki attrition terendah.
+    - Manager dan Research Director memiliki attrition terendah.
 
 3. Attrition Berdasarkan Departemen
 
@@ -81,13 +81,13 @@ Dashboard ini dibuat untuk memantau tingkat attrition (tingkat keluar/mutasi kar
 
 6. Distribusi Attrition Berdasarkan Gaji Bulanan
 
-    - Attrition lebih banyak terjadi pada karyawan dengan gaji antara 4K - 7K.
+    - Attrition lebih banyak terjadi pada karyawan dengan gaji antara 1K - 7K.
     - Semakin tinggi gaji, semakin rendah tingkat attrition, kecuali pada gaji 13K dan 19K yang masih memiliki sedikit attrition.
 
 ### Rekomendasi Action Items (Optional)
 
 - Fokus pada Job Level 1 dan Departemen Research & Development karena memiliki tingkat attrition yang tinggi.
-- Perhatikan kesejahteraan karyawan di rentang gaji 4K - 7K, mungkin ada ketidakpuasan terkait kompensasi.
+- Perhatikan kesejahteraan karyawan di rentang gaji 1K - 7K, mungkin ada ketidakpuasan terkait kompensasi.
 - Job Role seperti Sales Executive, Research Scientist, dan Laboratory Technician perlu strategi retensi khusus untuk mengurangi turnover.
 - Karyawan dengan pendidikan Bachelor memiliki tingkat attrition tertinggi, bisa jadi karena ekspektasi karir yang lebih tinggi.
 - Tingkatkan engagement bagi karyawan laki-laki, karena mereka lebih cenderung mengalami attrition dibanding perempuan.
